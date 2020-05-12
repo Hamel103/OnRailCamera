@@ -4,7 +4,7 @@ Alex Hamel
 2274985
 hamel103@mail.chapman.edu
 CPSC 399 (Independent Study)
-Assignment 1 + 2
+Assignment 3
 
 Referrences:
 
